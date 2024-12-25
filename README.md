@@ -13,4 +13,4 @@ To run the project Download the missing folders from:
 
 ![Screenshot 2024-12-25 at 4 57 43 PM](https://github.com/user-attachments/assets/f25f1787-cd66-4c9a-ac45-cde73b231a20)
 <br>
-# P.S. The `feature engineering, data preprocessing and optuna is commented out`. To run the whole script you have to delete the saved model and uncomment the code.
+### P.S. The `feature engineering, data preprocessing and optuna is commented out`. To run the whole script you have to delete the saved model and uncomment the code.
