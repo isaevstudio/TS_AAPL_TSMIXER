@@ -1,4 +1,4 @@
-# !Important
+# ! Important
 
 Due to the size limits, I could not upload the finetuned bert model and saved TSMIXER model. 
 To run the project Download the missing folders from: 
