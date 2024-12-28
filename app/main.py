@@ -122,7 +122,7 @@ if __name__ == "__main__":
 
     # move to data prep
     df_predict = scale_data(df_predict)
-    df_predict[['close', 'volume']] = scaler.fit_transform(df_predict[['close', 'volume']])
+    # df_predict[['close', 'volume']] = scaler.fit_transform(df_predict[['close', 'volume']])
 
     values = df_predict.drop('date', axis=1).values
 
